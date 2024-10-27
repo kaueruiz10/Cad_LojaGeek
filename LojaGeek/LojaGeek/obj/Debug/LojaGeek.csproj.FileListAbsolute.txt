@@ -1,0 +1,31 @@
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\bin\Debug\LojaGeek.exe.config
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\bin\Debug\LojaGeek.exe
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\bin\Debug\LojaGeek.pdb
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.csproj.AssemblyReference.cache
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.Properties.Resources.resources
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.csproj.GenerateResource.cache
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.exe
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.pdb
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.Splash.resources
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.FrmLogin.resources
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.Frmmenu.resources
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.CadastroCliente.resources
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.ConsultarCliente.resources
+C:\Users\Bruno\Downloads\T\LojaGeek\LojaGeek\obj\Debug\LojaGeek.CadastrarProduto.resources
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\bin\Debug\LojaGeek.exe.config
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\bin\Debug\LojaGeek.exe
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\bin\Debug\LojaGeek.pdb
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.csproj.AssemblyReference.cache
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.CadastrarProduto.resources
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.CadastroCliente.resources
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.ConsultarCliente.resources
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.ConsultarProduto.resources
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.FrmLogin.resources
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.Frmmenu.resources
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.Splash.resources
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.Properties.Resources.resources
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.csproj.GenerateResource.cache
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.exe
+C:\Users\Bruno\Downloads\SISTEMA LOJA GEEK\LojaGeek\LojaGeek\obj\Debug\LojaGeek.pdb
